@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DafnyLib1", "DafnyLib1\DafnyLib1.csproj", "{DC6F1E85-782D-4ED2-A66B-E07F76B47A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{1BEDEF69-E81D-41AC-9198-1A08CCCB9FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6F1E85-782D-4ED2-A66B-E07F76B47A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6F1E85-782D-4ED2-A66B-E07F76B47A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6F1E85-782D-4ED2-A66B-E07F76B47A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6F1E85-782D-4ED2-A66B-E07F76B47A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEDEF69-E81D-41AC-9198-1A08CCCB9FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEDEF69-E81D-41AC-9198-1A08CCCB9FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEDEF69-E81D-41AC-9198-1A08CCCB9FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEDEF69-E81D-41AC-9198-1A08CCCB9FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
